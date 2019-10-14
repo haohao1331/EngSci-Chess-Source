@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 01503d62585a213498728a8a189c5495
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boxSelected: {fileID: 2100000, guid: 54085476a9216be46922cbf8a5f7f471, type: 2}
+  - boxUnselected: {fileID: 2100000, guid: eb9a86e23a0bdfb4b89ebb94a05958cc, type: 2}
+  - boxShield: {instanceID: 0}
+  - redUnselected: {instanceID: 0}
+  - redSelected: {instanceID: 0}
+  - blackUnselected: {instanceID: 0}
+  - blackSelected: {instanceID: 0}
+  - legalMoveMat: {instanceID: 0}
+  - flagDestinationCandidate: {instanceID: 0}
+  - selectedUnit: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - boxPrefab: {instanceID: 0}
+  - but_delete: {instanceID: 0}
+  - but_setFlag: {instanceID: 0}
+  - but_remFlag: {instanceID: 0}
+  - but_addCharge: {instanceID: 0}
+  - but_remCharge: {instanceID: 0}
+  - but_addChargeAll: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
